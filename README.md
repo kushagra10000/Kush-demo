@@ -1,2 +1,4 @@
 # Kush-demo
-This is my second git repository. Author- Kushagra Mangalam
+This is my second git repository.
+<br>
+Author- Kushagra Mangalam
